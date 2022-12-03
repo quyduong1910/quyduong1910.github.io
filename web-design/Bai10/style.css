@@ -1,0 +1,17 @@
+li {
+  list-style-type: none;
+}
+
+.logo img{
+  width: 200px;
+}
+
+ul{
+  display: flex;
+  justify-content: space-around;
+}
+
+.navbar {
+  background: #d72520;
+  color: #fff;
+}
